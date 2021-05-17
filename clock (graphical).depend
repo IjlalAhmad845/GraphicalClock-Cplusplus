@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1504624154 source:c:\users\ahmad\desktop\clock (graphical)\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+
+1506700502 source:c:\users\ahmad\desktop\trial\clock (graphical)\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+
+1506700502 source:e:\bakup\users\ahmad\downloads\c++\clock (graphical)\main.cpp
+	<iostream>
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+
